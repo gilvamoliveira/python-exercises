@@ -1,4 +1,4 @@
-# Codes
+# Exercícios de Python
 
 Exercícios e anotações de estudo em Python, organizados por aula.
 
