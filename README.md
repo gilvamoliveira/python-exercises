@@ -41,4 +41,4 @@ python Curso_Codes_Py/Lesson1_DocString.py
 
 ---
 
-Repositório organizado por Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
+Repositório organizado por Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/)
